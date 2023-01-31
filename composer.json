@@ -1,0 +1,34 @@
+{
+    "name": "vsn/ps",
+    "type": "library",
+    "time": "2020-20-08",
+    "keywords": ["pcre","regex","search","split","replace","remove","prs","photoscript"],
+    "homepage": "https://github.com/vigilance91/ps-phar56",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Tyler R. Drury",
+            "email": "that_canadianguy@hotmail.com",
+            "homepage": "https://vigilance91.github.io/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vsn\\": "build/"
+        }
+    },
+    "funding": [
+        {
+            "type": "patreon",
+            "url": "https://www.patreon.com/vigilance"
+        },
+        {
+            "type": "other",
+            "url": "https://etherscan.io/address/0x20fc7e34f4acfa8faec8edf0546c57cd77d76bfe"
+        }
+    ]
+}

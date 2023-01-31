@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+npm-debug.log
+.htaccess
+php.ini
+phar.php
+build.bat
+_build.php
+Doxyfile
+/bower_components
+/node_modules
+/vendor
+/_src
+/_tests
+/_output
+/_output/*.log
+/latex
