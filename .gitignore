@@ -9,7 +9,6 @@ _build.php
 Doxyfile
 /bower_components
 /node_modules
-/vendor
 /_src
 /_tests
 /_output
